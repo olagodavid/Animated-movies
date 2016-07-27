@@ -112,6 +112,8 @@
 #thumbs .thumb-content p {font-weight:bold; color:#BF5D9B; margin:0 0 3px;padding:0;}
 #thumbs .thumb-on .thumb-content p {color:#BB0000;}
 
+ 
+
 /* Small only */
 @media screen and (max-width: 39.9375em) {}
 
