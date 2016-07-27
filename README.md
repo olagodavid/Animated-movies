@@ -1,2 +1,2 @@
 # Animated-Movies
-A website about life in the wild and what the widerness
+A website about an animated movie
